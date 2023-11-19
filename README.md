@@ -207,6 +207,7 @@ Vivek Solanki - +91 6267070019 - solankivivek01b@gmail.com
 
 Project Link: https://github.com/vivek286/Log_Ingestor_and_Query_Interface
 
+Linkedin:- https://www.linkedin.com/in/vivek-solanki-7779641b1/
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
