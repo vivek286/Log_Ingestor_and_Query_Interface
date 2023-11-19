@@ -179,11 +179,13 @@ Note:- Sample Dummy Data is already present in DB
 <img src="images/log_found.png">
 
 # Display Logs
-<img src="images/all_log.png">
+<img src="images/all_log.png"/>
 
 # View Log
 <img src="images/view_log.png">
 
+# Log Insertion
+<img src="images/ingestion_process.png">
 <!-- ROADMAP -->
 ## Roadmap
 
