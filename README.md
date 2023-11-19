@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/vivek286/Log_Ingestor_and_Query_Interface.git">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/ui.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Log Ingestor and Query Interface</h3>
@@ -167,16 +167,22 @@ NOTE: Run post request through this endpoint to insert log data data should be i
 ```sh
 http://localhost:4000/
 ```
+Note:- Sample Dummy Data is already present in DB
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Results 
-# Server 
-<img src="images/server_working.png">
+# UI 
+<img src="images/ui.png">
 
-# CLI working as expected
-<img src="images/cli-usage.png">
+# Data Loaded
+<img src="images/log_found.png">
 
+# Display Logs
+<img src="images/all_log.png">
+
+# View Log
+<img src="images/view_log.png">
 
 <!-- ROADMAP -->
 ## Roadmap
